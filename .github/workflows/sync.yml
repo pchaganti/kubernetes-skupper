@@ -1,4 +1,4 @@
-mname: Sync
+name: Sync
 
 env:
   # Required, URL to upstream (fork base)
